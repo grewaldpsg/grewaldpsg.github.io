@@ -16,7 +16,7 @@ const greeting = {
   full_name: "Damanpreet Singh Grewal",
   subTitle: "Full Stack Developer, MERN Stack Developer 🔥. Always learning.",
   resumeLink:
-    "https://drive.google.com/file/d/13Anh2WbqMOUY-j0Zoewhj3JNsTyvrxq6/view?usp=sharing",
+    "https://drive.google.com/file/d/1NZCnCqmNoK3TQqrscPJMsFhPvwL9RQFO/view?usp=sharing",
   mail: "mailto:damanpreetsinghgrewal92@gmail.com",
 };
 
@@ -37,8 +37,7 @@ const skills = {
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
         "⚡ Developing mobile applications in Android Studio",
-        "⚡ Creating application backend in Node, Express & Spring Boot / Hibernate",
-        "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean",
+        "⚡ Integration of third party services such as Firebase/ AWS / Heroku",
       ],
       softwareSkills: [
         {
