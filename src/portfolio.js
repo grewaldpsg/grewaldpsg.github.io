@@ -23,7 +23,7 @@ const greeting = {
 const socialMediaLinks = {
   /* Your Social Media Link */
   github: "https://github.com/damanpreetgrewal/",
-  linkedin: "https://www.linkedin.com/in/damanpreet-singh-grewal/",
+  linkedin: "https://www.linkedin.com/in/damanpreetgrewal/",
   gmail: "damanpreetsinghgrewal92@gmail.com",
   gitlab: "https://gitlab.com/damanpreetsinghgrewal92/",
 };
@@ -37,7 +37,7 @@ const skills = {
         "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
         "⚡ Building responsive website front end using ReactJS",
         "⚡ Developing mobile applications in Android Studio",
-        "⚡ Integration of third party services such as Firebase/ AWS / Heroku",
+        "⚡ Integration of third party services such as Firebase/Heroku",
       ],
       softwareSkills: [
         {
@@ -199,13 +199,13 @@ const skills = {
         "⚡ Experience with Continuous Integration",
       ],
       softwareSkills: [
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "simple-icons:amazonaws",
-          style: {
-            color: "#FF9900",
-          },
-        },
+        // {
+        //   skillName: "AWS",
+        //   fontAwesomeClassname: "simple-icons:amazonaws",
+        //   style: {
+        //     color: "#FF9900",
+        //   },
+        // },
         {
           skillName: "Netlify",
           fontAwesomeClassname: "simple-icons:netlify",
@@ -364,22 +364,15 @@ const experience = {
           duration: "Jan 2020 - Feb 2021",
           location: "Pune , India",
           description: `Client : UBS AG - Asset Management - Pre/Post Trading Ops
-          • Exhibited skills in React JS, Redux, Webpack, ES6, Styled Components, Bootstrap, NPM, Eslint, Java, JSP and JavaScript, HTML5, CSS3 and Media Queries ,Git , JIRA and Confluence
-          • Successful Integration of user-facing elements developed by front-end developers with server-side logic
-          • Writing Test Cases using Jest to increase the code coverage
-          • Working on React.js with 16.8 implementing modules on hooks
-          • Worked on Redux Library for state Management
-          • Designed and developed the End Points (Controllers), Business Layer, DAO Layer using Hibernate/JDBC template, using Spring IOC (Dependency Injection).
-          • Developed forms for user event handling and validations using JavaScript and AJAX.
-          • Involved in multi-tiered J2EE design utilizing Spring Inversion of Control (IOC) and Hibernate.
-          • Primarily focused on the spring components such as Dispatcher servlets, Controllers, Model and View Objects, View Resolver.
-          • Used Hibernate, object /relational mapping (ORM) solution, technique of mapping data representation from MVC model to Oracle Relational data model with an SQL-based schema.
-          • The Java Message Service (JMS) API is used to allow application components to create, send, receive, and read messages.
-          • Tested Rest web services using postman, SOAP UI.
-          • The back-end use Node JS, to provide RESTful API.
-          • Implemented the application using Spring IOC, Spring MVC Framework, Spring Batch, Spring Boot and handled the security using Spring Security
-          • Worked with Web Sphere application server WAS 8.5
-          • Used GIT to maintain the version of the files and took the responsibility to do the code merges from branch to trunk and creating new branches when new feature implementation starts
+          •	Worked on applications that performed duties like Portfolio Onboarding, Institutional Client Account Setup, Billing, Performance Measurement, Client Reporting, Portfolio and Order Management, and Global Benchmarks Management.
+          •	Exhibited skills in React JS, Redux, Webpack, ES6, Styled Components, React-Bootstrap, NPM, React JS, Redux, Webpack, ES6, Styled Components, Bootstrap, Axios/Fetch API, Java, NodeJS and JavaScript, HTML5, CSS3, Oracle PLSQL, Informatica, SAP Crystal Reports, Java.
+          •	Worked on responsive design and developed responsive reusable components using React Bootstrap.
+          •	Worked on Redux Library for state Management.
+          •	Used Sequelize, object /relational mapping (ORM) package, to connect Oracle DBs with Node/Express based backend.
+          •	Used Jest, Mocha & Chai for mocking functions, writing Unit/Integration Tests and perform TDD.
+          •	Hands on experience in Node.js development using Express framework to create RESTful APIs.
+          •	Tested Rest web services using postman.
+          •	Used GIT to maintain the version of the files and took the responsibility to do the code merges from branch to trunk and creating new branch when new feature implementation starts.
           `,
           color: "#0071C5",
         },
@@ -391,20 +384,15 @@ const experience = {
           duration: "Oct 2016 - Dec 2019",
           location: "Zurich , Switzerland",
           description: `Client : UBS AG - Asset Management - Pre/Post Trading Ops
-          • Designed and developed many complex components in React JS.
-          • The UI is built using styled-component library.
-          • Used Middleware, Redux-Promise and Fetch API , Axios library in application to retrieve data from Back-End and to also perform RESTFUL services.
-          • Added Dynamic Functionality by creating and dispatching Action Creators that deployed Actions.
-          • Created and used Reducers that received said Actions to modify the Store State Tree.
-          • Monitoring the offshore work and providing technical help to the offshore team for their JIRA tickets.
-          • Implemented JWT signing and encryption mechanism for the required services
-          • Implemented extensive unit test code coverage using JUnit framework and Mockito library.
-          • Updated/Record all Project Milestones on Bitbucket, JIRA and Confluence.
-          • Performs code reviews on the code delivered by the rest of the team.
-          • Worked on technical specifications into project scopes of work and product requirements while spearheading design and development of databases and enterprise solutions.
-          • Work with Developers to ensure that the detailed technical design is fully understood and the development initiatives are in line with the intended design
-          • Understand business challenges, translate them into technical solutions and provide leadership during the analysis, design and build
-          • Work with the Technology Project Manager, Technology Business Analysts, and other team members to define metrics and performance goals for the application
+          • Developed Complex database objects like Stored Procedures, Functions, Packages and Triggers using SQL and PL/SQL and oracle tools like Toad, SQL Developer and SQL* plus.
+          •	Performed L3 Production support worked on Incident Requests, and Problem Tasks deployed Break fixes, created knowledge articles, participated in Release/Change Management activities.
+          •	Monitoring the offshore work and providing technical help to the offshore team for their JIRA tickets.
+          •	Implemented JWT signing and encryption mechanism for the required services.
+          •	Performs code reviews on the code delivered by the rest of the team.
+          •	Worked on technical specifications into project scopes of work and product requirements while spearheading design and development of databases and enterprise solutions.
+          •	Worked in Agile (Scrum) environment for the entire application development and used Jira/Confluence for user story tracking processes and streamlining agile planning.
+          •	Understand business challenges, translate them into technical solutions and provide leadership during the analysis, design and build.
+          •	Work with the Technology Project Manager, Technology Business Analysts, and other team members to define metrics and performance goals for the application.
           `,
           color: "#EE3C26",
         },
@@ -416,18 +404,12 @@ const experience = {
           duration: "Sep 2014 - Sep 2016",
           location: "Pune , India",
           description: `Client : UBS AG - Asset Management - Pre/Post Trading Ops
-          • Converted the Photoshop mockups into hand-written HTML and CSS pages.
-          • Developed web pages applying best standards.
-          • Designed dynamic and multi-browser compatible pages using HTML, DHTML, CSS and JavaScript.
-          • Converted the mock-ups into hand-written HTML, CSS, JavaScript and XML.
-          • Developed GUI using JavaScript, HTML, CSS, Bootstrap , Sass and JavaScript/JQuery.
-          • Involved in fixing several bugs for JavaScript, HTML, and CSS.
-          • Responsible for migrating from old look of the application to Web components and widgets using  AJAX, JavaScript.
-          • Worked with several cross-browser compatibilities.
-          • Involved with Product Managers and Software Engineers to provide guidelines on solid UI design.
-          • Implemented various Validation Controls for form validation and implemented custom validation  controls with JavaScript validation controls.
-          • Involved in developing Spring Beans and wiring their dependencies.
-          • Developed Spring Configuration for dependency injection by using Spring IOC, Spring Controllers.
+          •	Developed GUI using JavaScript, HTML, CSS, JSPs and JavaScript/JQuery applying best standards
+          •	Involved in fixing several bugs for JavaScript, HTML, and CSS.
+          •	Responsible for migrating from old look of the application to Web components and widgets using AJAX, JavaScript.
+          •	Worked with several cross-browser compatibilities.
+          • Performed EOL Migrations like Oracle 11g to 18c, RHEL 6 to 7, SAP BO Crystal Reports 3.1 to 4.1, Java 1.7 to 1.8 , Autosys R11 to R11.3.6.
+
           `,
           color: "#26d8ee",
         },
